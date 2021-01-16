@@ -1,3 +1,3 @@
-<p> Creditscore </P>
+### Creditscore 
 
 This Business problem span accross the world and its a major issue globally. Its has made Financial institution go bankcrupt as a case of 2008 in the USA.Bank and other Financial institution provide funds for potential borrowers and in reture earn a profit depending on the risk they take (the borrowers credit score). They provides loan to their loyal customers. The purpose of this work is to combine Machine learning Intution across customer available data such as credit score gotten from a reliable organisation. This dataset is gotten from Kaggle and its for learning purposes. I dont have any intention for Plagiarism any data.
