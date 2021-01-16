@@ -6,4 +6,4 @@ This is a Business problem span accross the world and its a major issue globally
 
 There are over 100,000 data available for analysis. Two algorithm will be used for evaluation Logistic Regression and Random Forest classifier. we will select one that best suit the given data which will be evaluated based on their AUC score
 
-AUC(Area under curve) score represents degree or measure of separability. It tells how much model is capable of distinguishing between classes. Higher the AUC, better the model is at predicting 0s as 0s and 1s as 1s or probabiity. For this pr
+AUC(Area under curve) score represents degree or measure of separability. It tells how much model is capable of distinguishing between classes. Higher the AUC, better the model is at predicting 0s as 0s and 1s as 1s or probabiity. The reason for predicting probability is give the company a range of score for each customer which will be use for **Risk Management**
